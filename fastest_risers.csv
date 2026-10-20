@@ -1,0 +1,11 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,is_explicit,album_cover_url,song_clean,artist_clean,track_id,previous_date,previous_position,days_between,rank_change
+2024-12-25,7,Rockin' Around The Christmas Tree,Brenda Lee,98,126266,album,12,False,https://i.scdn.co/image/ab67616d0000b2737845f74d6db14b400fa61cd3,rockin' around the christmas tree,brenda lee,rockin' around the christmas tree | brenda lee,2024-12-24,47.0,1.0,40.0
+2024-07-09,1,Columbia,Quevedo,61,186000,single,1,False,https://i.scdn.co/image/ab67616d0000b273a00a817b017c6f6bf8460be9,columbia,quevedo,columbia | quevedo,2024-07-08,39.0,1.0,38.0
+2025-09-29,16,Alegría,Tiago PZK,73,165054,album,14,False,https://i.scdn.co/image/ab67616d0000b273981fb242b648850e0853881f,alegría,tiago pzk,alegría | tiago pzk,2025-09-28,48.0,1.0,32.0
+2025-01-01,20,Nochentera,Vicco,72,202184,single,1,False,https://i.scdn.co/image/ab67616d0000b27343eb3794977db60bced5ad16,nochentera,vicco,nochentera | vicco,2024-12-31,50.0,1.0,30.0
+2024-10-04,14,Lollipop,Darell,68,199946,album,18,True,https://i.scdn.co/image/ab67616d0000b273992b4a535535ec4d0f109021,lollipop,darell,lollipop | darell,2024-10-03,43.0,1.0,29.0
+2024-11-08,19,lady madrizZz,céro,70,131020,single,1,False,https://i.scdn.co/image/ab67616d0000b273037c26b65099737b1a7c440c,lady madrizzz,céro,lady madrizzz | céro,2024-11-07,47.0,1.0,28.0
+2024-11-07,22,La Baby,Brytiago,68,161333,single,1,True,https://i.scdn.co/image/ab67616d0000b2730c705e25f25ce26e992dbb49,la baby,brytiago,la baby | brytiago,2024-11-06,49.0,1.0,27.0
+2025-10-22,19,No Has Cambiado,Baby Rasta & Noriel & Hades66,70,276404,single,1,True,https://i.scdn.co/image/ab67616d0000b273ef7ff4ddd885e4a767d56cad,no has cambiado,baby rasta & noriel & hades66,no has cambiado | baby rasta & noriel & hades66,2025-10-21,46.0,1.0,27.0
+2024-12-25,4,Last Christmas - Single Version,Wham!,89,265960,album,16,False,https://i.scdn.co/image/ab67616d0000b2734b68569ae3fdd6fcd0f98615,last christmas - single version,wham!,last christmas - single version | wham!,2024-12-24,30.0,1.0,26.0
+2024-08-13,24,Eva Longoria,Ozuna,72,199850,album,7,False,https://i.scdn.co/image/ab67616d0000b273791d76abc6a152ac90c9b140,eva longoria,ozuna,eva longoria | ozuna,2024-08-12,49.0,1.0,25.0

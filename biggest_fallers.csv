@@ -1,0 +1,11 @@
+date,position,song,artist,popularity,duration_ms,album_type,total_tracks,is_explicit,album_cover_url,song_clean,artist_clean,track_id,previous_date,previous_position,days_between,rank_change
+2025-10-05,48,Alegría,Tiago PZK,74,165054,album,14,False,https://i.scdn.co/image/ab67616d0000b273981fb242b648850e0853881f,alegría,tiago pzk,alegría | tiago pzk,2025-10-04,9.0,1.0,-39.0
+2024-08-30,48,FERXXO 151,Feid & ICON,77,195653,single,1,False,https://i.scdn.co/image/ab67616d0000b2732d2f3a1bd3796d72b0f90a6d,ferxxo 151,feid & icon,ferxxo 151 | feid & icon,2024-08-29,15.0,1.0,-33.0
+2025-09-23,40,Una Velita,Bad Bunny,74,239986,single,1,True,https://i.scdn.co/image/ab67616d0000b273eb5efee120bead72cefb2f0d,una velita,bad bunny,una velita | bad bunny,2025-09-22,7.0,1.0,-33.0
+2025-01-22,44,La Canción Feliz Del Disco,Eladio Carrion,69,173524,album,17,True,https://i.scdn.co/image/ab67616d0000b273ec105eaf625391e95540ba97,la canción feliz del disco,eladio carrion,la canción feliz del disco | eladio carrion,2025-01-21,13.0,1.0,-31.0
+2024-10-14,47,LUCES DE TECNO,Feid,60,164293,album,16,False,https://i.scdn.co/image/ab67616d0000b2731e76d5d8c654a8f5e640392b,luces de tecno,feid,luces de tecno | feid,2024-10-13,16.0,1.0,-31.0
+2024-12-24,50,YO TENGO UN NOVIO,Lola Indigo,63,144424,album,7,False,https://i.scdn.co/image/ab67616d0000b273e5d4842267050704b1c82928,yo tengo un novio,lola indigo,yo tengo un novio | lola indigo,2024-12-23,19.0,1.0,-31.0
+2025-08-25,49,COMPETENCIA,Myke Towers,61,190826,album,20,True,https://i.scdn.co/image/ab67616d0000b273f5efed2f29ab39ebab066e2a,competencia,myke towers,competencia | myke towers,2025-08-24,19.0,1.0,-30.0
+2025-11-18,44,Cosa Nuestra,Rauw Alejandro,70,260454,album,18,True,https://i.scdn.co/image/ab67616d0000b273ed432d7df981360768dd5856,cosa nuestra,rauw alejandro,cosa nuestra | rauw alejandro,2025-11-17,16.0,1.0,-28.0
+2024-09-03,48,FANTASÍAS,Mora,78,191847,album,15,True,https://i.scdn.co/image/ab67616d0000b2734cc96ed1e38fa517608c2fb0,fantasías,mora,fantasías | mora,2024-09-02,20.0,1.0,-28.0
+2024-12-25,47,CORLEONE,Saiko,50,192000,album,7,False,https://i.scdn.co/image/ab67616d0000b273d1f9e542dc5acb2c1399e58e,corleone,saiko,corleone | saiko,2024-12-24,21.0,1.0,-26.0
